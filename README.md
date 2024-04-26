@@ -13,7 +13,7 @@ This repository contains the code for a capstone project that implements a booki
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/davideke1/Metafrontendcapstone/.git
+   git clone https://github.com/davideke1/Metafrontendcapstone.git
    ```
 2. **Install Dependencies:**
    ```bash
